@@ -1,0 +1,58 @@
+{
+    "projects": [
+        {
+            "title": "Roller Coaster",
+            "description": "A Roller Coaster themed scene made in OpenGL. Implemented multiple common features, including post process shaders, environment map (reflection / refraction), various curves, Phong Lighting, simple particle system. etc.",
+            "image": "1_rollecoaster.webp",
+            "link": "/Projects/1_RollerCoaster",
+            "fileName": "1_RollerCoaster.md",
+            "tags": ["Computer Graphics"]
+        },    
+        {
+            "title": "Dungeon Game",
+            "description": "A mini game that resembles a dungeon. With potions and enemies, each with 2 types. Goal is to kill all enemies, and advance on to the next level.",
+            "image": "2_dungeon.webp",
+            "link": "/Projects/2_DungeonGame",
+            "fileName": "2_DungeonGame.md",
+            "tags": ["Computer Graphics", "Mini Game"]
+        },
+        {
+            "title": "Portfolio Website Version #1",
+            "description": "Porfolio Website. My first static website without a backend database. Using html, css and vanilla js. No frameworks.",
+            "image": "3_portfolio_website.webp",
+            "link": "/Projects/3_PortfolioWebsiteVer1",
+            "fileName": "3_PortfolioWebsiteVer1.md",
+            "tags": ["Web Development"]
+        },
+        {
+            "title": "Portfolio Website Version #2",
+            "description": "Revamped version of the version #1 counterpart, built using Vue.js and TailwindCSS, added animations and made better optimizations for mobile users. Added more features as well. In general improved the UX.",
+            "image": "4_portfolio_website_ver2.webp",
+            "link": "/Projects/4_PortfolioWebsiteVer2",
+            "fileName": "4_PortfolioWebsiteVer2.md",
+            "tags": ["Web Development"]
+        },
+        {
+            "title": "Image Editor",
+            "description": "A very simple GUI app, that allows you to load images and rotate, scale, blend images, various dithering techniques, various quantization techniques.",
+            "image": "5_image_editor.webp",
+            "link": "/Projects/5_ImageEditor",
+            "fileName": "5_ImageEditor.md",
+            "tags": ["Computer Graphics"]
+        },
+        {
+            "title": "Maze",
+            "description": "A maze that uses OpenGL as its rendering engine, implementing frustum culling.",
+            "image": "6_maze.webp",
+            "link": "/Projects/6_Maze",
+            "fileName": "6_Maze.md",
+            "tags": ["Computer Graphics"]
+        }
+
+
+
+        
+    ],
+
+    "Tags" : ["Computer Graphics", "Web Development", "Mini Game" ]
+}
