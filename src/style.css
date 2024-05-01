@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Noto+Sans+Mono:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+z-index:
+-1:
+0:  
+1:
+2: navbar
+
+*/
+
+:root {
+    --navbar-height: 9vh;
+    overscroll-behavior: none;
+
+}
+
+
+html,
+body {
+  min-width: 100%;
+  overflow-x: hidden !important;
+
+}
